@@ -110,6 +110,9 @@ ENV/
 env.bak/
 venv.bak/
 
+# django
+/media
+
 # Spyder project settings
 .spyderproject
 .spyproject

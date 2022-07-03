@@ -1,0 +1,33 @@
+# django
+Django==4.0.1
+django-extensions==3.1.5
+
+# drf
+django-filter==21.1
+djangorestframework==3.13.1
+Markdown==3.3.6
+
+# jwt
+djangorestframework-simplejwt==4.7.1
+
+# api doc
+drf-spectacular==0.17.2
+
+# otp
+django-otp==1.1.3
+
+# envs
+python-environ==0.4.54
+
+# postgres
+psycopg2==2.8.6
+
+# email
+git+https://github.com/Vixx-X/django-simple-mail.git
+django-ckeditor==6.2.0
+
+# cors
+django-cors-headers==3.11.0
+
+# filter
+django-filter==21.1
